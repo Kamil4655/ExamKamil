@@ -1,0 +1,54 @@
+﻿@model List<GetTeamVM>
+<div class="card-body p-4">
+    <a asp-action="Create" class="btn btn-primary">Create</a>
+    <h5 class="card-title fw-semibold mb-4">Recent Transactions</h5>
+    <div class="table-responsive">
+        <table class="table text-nowrap mb-0 align-middle">
+            <thead class="text-dark fs-4">
+                <tr>
+                    <th class="border-bottom-0">
+                        <h6 class="fw-semibold mb-0">Id</h6>
+                    </th>
+                    <th class="border-bottom-0">
+                        <h6 class="fw-semibold mb-0">Name</h6>
+                    </th>
+                    <th class="border-bottom-0">
+                        <h6 class="fw-semibold mb-0">Job</h6>
+                    </th>
+                    <th class="border-bottom-0">
+                        <h6 class="fw-semibold mb-0">img</h6>
+                    </th>
+                    <th class="border-bottom-0">
+                        <h6 class="fw-semibold mb-0">Action</h6>
+                    </th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="border-bottom-0"><h6 class="fw-semibold mb-0">@item.Id</h6></td>
+                        <td class="border-bottom-0">
+                            <span class="fw-normal">@item.Name</span>
+                        </td>
+                        <td class="border-bottom-0">
+                            <p class="mb-0 fw-normal">@item.Job</p>
+                        </td>
+                        <td class="border-bottom-0">
+                            <div class="d-flex align-items-center gap-2">
+                                <img src="~/assets/imgs/@item.ImageFile" width="90px" alt="Alternate Text" />
+                            </div>
+                        </td>
+                        <td class="border-bottom-0">
+                            <a asp-action="Edit" class="btn btn-warning" asp-route-id="@item.Id">Edit</a>
+                            <a asp-action="Delete" class="btn btn-danger"asp-route-id="@item.Id">Delete</a>
+
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

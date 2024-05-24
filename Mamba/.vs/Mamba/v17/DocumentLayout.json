@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|c:\\users\\ca.r215.02\\desktop\\kamil\u0027smamba\\mamba\\mamba\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|solutionrelative:mamba\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|c:\\users\\ca.r215.02\\desktop\\kamil\u0027smamba\\mamba\\mamba\\areas\\admin\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|c:\\users\\ca.r215.02\\desktop\\kamil\u0027smamba\\mamba\\mamba\\viewmodels\\teams\\getteamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|solutionrelative:mamba\\viewmodels\\teams\\getteamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|c:\\users\\ca.r215.02\\desktop\\kamil\u0027smamba\\mamba\\mamba\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|solutionrelative:mamba\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|c:\\users\\ca.r215.02\\desktop\\kamil\u0027smamba\\mamba\\mamba\\viewmodels\\teams\\editteamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|solutionrelative:mamba\\viewmodels\\teams\\editteamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|c:\\users\\ca.r215.02\\desktop\\kamil\u0027smamba\\mamba\\mamba\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|solutionrelative:mamba\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|c:\\users\\ca.r215.02\\desktop\\kamil\u0027smamba\\mamba\\mamba\\areas\\admin\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|c:\\users\\ca.r215.02\\desktop\\kamil\u0027smamba\\mamba\\mamba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|solutionrelative:mamba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|c:\\users\\ca.r215.02\\desktop\\kamil\u0027smamba\\mamba\\mamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|solutionrelative:mamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|c:\\users\\ca.r215.02\\desktop\\kamil\u0027smamba\\mamba\\mamba\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|solutionrelative:mamba\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|c:\\users\\ca.r215.02\\desktop\\kamil\u0027smamba\\mamba\\mamba\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|solutionrelative:mamba\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|c:\\users\\ca.r215.02\\desktop\\kamil\u0027smamba\\mamba\\mamba\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E108E5-8365-44ED-8B88-DAB4D8755180}|Mamba\\Mamba.csproj|solutionrelative:mamba\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Program.cs",
+              "RelativeDocumentMoniker": "Mamba\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Program.cs",
+              "RelativeToolTip": "Mamba\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:00:45.413Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Mamba\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:20:11.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Mamba\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:18:53.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mamba\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:12:49.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Mamba\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:12:49.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Areas\\Admin\\Views\\Teams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\Teams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Areas\\Admin\\Views\\Teams\\Index.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\Teams\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:00:12.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\appsettings.json",
+              "RelativeDocumentMoniker": "Mamba\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\appsettings.json",
+              "RelativeToolTip": "Mamba\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T07:57:28.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditTeamVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\ViewModels\\Teams\\EditTeamVM.cs",
+              "RelativeDocumentMoniker": "Mamba\\ViewModels\\Teams\\EditTeamVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\ViewModels\\Teams\\EditTeamVM.cs",
+              "RelativeToolTip": "Mamba\\ViewModels\\Teams\\EditTeamVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:36:38.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Mamba\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Models\\Team.cs",
+              "RelativeToolTip": "Mamba\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:31:37.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetTeamVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\ViewModels\\Teams\\GetTeamVM.cs",
+              "RelativeDocumentMoniker": "Mamba\\ViewModels\\Teams\\GetTeamVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\ViewModels\\Teams\\GetTeamVM.cs",
+              "RelativeToolTip": "Mamba\\ViewModels\\Teams\\GetTeamVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:30:58.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Areas\\Admin\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Areas\\Admin\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Controllers\\TeamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:34:53.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.02\\Desktop\\Kamil\u0027sMamba\\Mamba\\Mamba\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Mamba\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:13:15.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
